@@ -8,3 +8,4 @@ Django
 Pip
 Virtualenv
 Pycharm/Vs-Code
+SimpleJwt
